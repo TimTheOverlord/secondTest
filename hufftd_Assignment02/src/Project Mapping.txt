@@ -1,0 +1,5 @@
+Base Class: Shape
+1st level Sub Class: Polygon
+2nd level Sub Class: Triangle, Quadrilateral
+3rd level Sub Class: Triangle By Angle, Triangle By Side Lengths, Square, Rectangle, Rhombus, Trapezoid
+4th level Sub Class(Triangle only *optional*): Obtuse, Acute, Right, Scalene, Equilateral, Isosceles
